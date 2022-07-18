@@ -31,3 +31,5 @@ fp-info-cache
 *-backups/
 
 outputs/
+
+*.FCStd1
